@@ -1,0 +1,1 @@
+{"version":3,"file":"BreakerOptions.js","sourceRoot":"","sources":["../../circuit-breaker/BreakerOptions.ts"],"names":[],"mappings":";;;AAAA,MAAa,cAAc;IACzB,YACS,gBAAwB,EACxB,gBAAwB,EACxB,OAAe;QAFf,qBAAgB,GAAhB,gBAAgB,CAAQ;QACxB,qBAAgB,GAAhB,gBAAgB,CAAQ;QACxB,YAAO,GAAP,OAAO,CAAQ;IACrB,CAAC;CACL;AAND,wCAMC"}
